@@ -11,7 +11,7 @@ public class Helpers {
         initiate();
     }
 
-    // An algo for transforming a number to decimal
+    // An algo for transforming a number to binary
     // It will start first by multiplying 1 by 2 and taking the result and multiply it by 2 and so on, until it
     // reaches smaller or equally the number
     public StringBuilder intToBinaryConverter(int number) {
